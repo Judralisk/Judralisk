@@ -6,6 +6,14 @@
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-orange?logo=apachespark&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-blue?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-orange?logo=tableau&logoColor=white)
+
+
 
 ## 📌 Projetos em Destaque
 🔹 **[Customer Churn Prediction](https://github.com/seu-usuario/churn-detection)** → Prevendo a saída de clientes no varejo online usando ML  
