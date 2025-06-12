@@ -1,6 +1,6 @@
 # 👋 Olá, meu nome é Julio Cesar!
-🎓 Matemático formado, mestrando em métodos estatísticos pela UFPR e Cientista de Dados apaixonado por Machine Learning e otimização.  
-💡 Atualmente desenvolvendo modelos para previsão de churn e análise de séries temporais.  
+🎓 Matemático formado, mestrando em métodos estatísticos pela UFPR e Cientista de Dados apaixonado por Machine Learning, otimização e jogos de tabuleiro.  
+💡 Atualmente desenvolvendo modelos para previsão de churn de clientes, análise de risco de crédito e análise de séries temporais.  
 
 ## 🔧 Tecnologias & Ferramentas
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
