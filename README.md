@@ -16,8 +16,8 @@
 
 
 ## 📌 Projetos em Destaque
-🔹 **[Customer Churn Prediction](https://github.com/seu-usuario/churn-detection)** → Prevendo a saída de clientes no varejo online usando ML  
-🔹 **[Otimização Combinatória](https://github.com/seu-usuario/combinatorial-optimization)** → Algoritmos Genéticos para o Problema do Caixeiro Viajante  
+🔹 **[Customer Churn Prediction](https://github.com/judralisk/churn-detection)** → Prevendo a saída de clientes no varejo online usando ML  
+🔹 **[Otimização Combinatória](https://github.com/judralisk/combinatorial-optimization)** → Algoritmos Genéticos para o Problema do Caixeiro Viajante  
 
 📫 Entre em contato: [LinkedIn](https://linkedin.com/in/seu-perfil) | [Email](mailto:seu-email@gmail.com)
 ****
