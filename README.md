@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1B2A,100:1B4F72&text=Julio%20Cesar%20Fagundes&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Cientista%20de%20Dados&descAlignY=60&descSize=18" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 **Matemático · Mestrando em Métodos Numéricos em Engenharia (UFPR) · Curitiba, Brasil**
 
@@ -46,16 +46,16 @@ Hoje sou consultor de dados na área de **FP&A**. Construo processos de ETL em S
 **Big Data, Cloud & MLOps**
 <br>
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Dados & Visualização**
 <br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Star Schema](https://img.shields.io/badge/Modelagem_Dimensional-555555?style=for-the-badge)
 
@@ -113,8 +113,6 @@ Hoje sou consultor de dados na área de **FP&A**. Construo processos de ETL em S
 
 Aberto a oportunidades em **Machine Learning Engineering** e **Ciência de Dados**, no Brasil ou no exterior.
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliofagndes/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1B4F72,100:0D1B2A&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliofagndes/)
 
 </div>
