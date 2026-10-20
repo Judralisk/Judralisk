@@ -80,7 +80,7 @@ Hoje sou consultor de dados na área de **FP&A**. Construo processos de ETL em S
 - Custeio ABC (Activity-Based Costing) para grandes empresas de TIC, com modelagem dimensional e análises de margem sobre grandes volumes de dados.
 - Ponte entre o negócio e o técnico: levanto regras diretamente com os clientes e traduzo em lógica e cálculos.
 
-**Pesquisador em Ciência de Dados** · *UFPR & ExxonMobil — Analysis Knowledge Hub* · `jan 2023 – 2025`
+**Pesquisador em Ciência de Dados** · *UFPR & ExxonMobil — Analysis Knowledge Hub* · `jan 2023 – dez 2025`
 - Liderei a frente de previsão de séries temporais, de ARIMA/SARIMA a redes MLP, RBF e LSTM.
 - Desenvolvi modelos híbridos com decomposição sazonal e por wavelets, processados em paralelo, com ganho de **até 15 p.p.** no longo prazo em relação ao benchmark.
 - Apliquei métodos multivariados (PCA, Análise Fatorial, agrupamento e identificação de drivers) com regressão múltipla.
