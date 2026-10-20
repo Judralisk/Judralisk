@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%"/>
-
-**Matemático · Mestrando em Métodos Numéricos em Engenharia (UFPR) · Curitiba, Brasil**
+<img src="assets/banner.png" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliofagndes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliocfagundes78@gmail.com)
@@ -46,16 +44,16 @@ Hoje sou consultor de dados na área de **FP&A**. Construo processos de ETL em S
 **Big Data, Cloud & MLOps**
 <br>
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge)
+<img src="assets/badges/databricks.png" alt="Databricks" height="28" width="106"/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+<img src="assets/badges/mlflow.png" alt="MLflow" height="28" width="73"/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Dados & Visualização**
 <br>
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+<img src="assets/badges/tableau.png" alt="Tableau" height="28" width="81"/>
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Star Schema](https://img.shields.io/badge/Modelagem_Dimensional-555555?style=for-the-badge)
 
